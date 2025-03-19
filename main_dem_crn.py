@@ -7,9 +7,6 @@ import matplotlib.pyplot as plt
 from pathlib import Path
 from scipy.ndimage import label, binary_erosion, binary_dilation, find_objects
 
-
-hello
-
 # ------------------------------------------------------------------------------------------------------------------------------------------ #
 # Functions
 
